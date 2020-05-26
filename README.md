@@ -13,6 +13,6 @@ Here are the functionalities covered by the project:
   -	Data storage on a JSON file to make them dynamic on Vue templates
   -	Use SCSS for the design
   -	Possibility to choose the number of pizzas to be added to the basket (the price is automatically calculated according to the number of pizzas in the basket)
-  -	Use of HTML5 semantics (<title>, <header>, <section>, <footer>, <h1>, <h2>, <h3>, <h4>)
+  -	Use of HTML5 semantics (title, header, section, footer, h1, h2, h3, h4)
 Unfortunately, you can’t order real pizzas but hope you’ll enjoy ;)
 
