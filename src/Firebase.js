@@ -4,7 +4,7 @@ import 'firebase/auth'
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDll7wObDQvO95MHzXsXmNeZXON1kIfkwY",
+    apiKey: "apiKey",
     authDomain: "galaxy-pizza-e3824.firebaseapp.com",
     databaseURL: "https://galaxy-pizza-e3824.firebaseio.com",
     projectId: "galaxy-pizza-e3824",
