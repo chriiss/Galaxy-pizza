@@ -1,0 +1,125 @@
+{
+
+    "headerComponent": [
+        {
+            "id": 1,
+            "imgText": "GalaxyPizza"
+        }
+    ],
+
+    "homePage": [
+        {
+            "id": 2,
+            "title": "Offres du moment",
+            "imgText": "promoPizza",
+            "imgText_bis": "promoPizza_bis"
+        }
+    ],
+
+
+    "homePageLink" : [
+        {
+            "id": 3,
+            "routeLink": "delivary",
+            "textLink": "Livraison",
+            "imgText": "delivaryIcon",
+            "imgTextActive": "delivaryIconActive"
+        },
+        {
+            "id": 4,
+            "routeLink": "takeaway",
+            "textLink": "À emporter",
+            "imgText": "takeAwayIcon",
+            "imgTextActive": "takeAwayIconActive"
+        }
+    ],
+
+    "homePageComponents": [
+        {
+            "id": 5,
+            "labelTextDelivary": "Code postal:",
+            "labelTextDelivary_bis": "Rue:",
+            "labelTextDelivary_ter": "Numéro de rue:",
+            "placeholderText": "ex: 75001",
+            "placeholderText_bis": "Rue des noisettes",
+            "placeholderText_ter": "ex: 16",
+            "buttonText": "Trouver ma pizzeria", 
+            "labelTextTakeAway": "Votre ville:",
+            "selectTextTakeAway": "Choisir votre ville"   
+        }
+    ],
+
+    "menuPage": [
+        {
+            "id": 6,
+            "title": "Athentic pizza",
+            "titleBis": "Your order",
+            "orderTotal": "Order total",
+            "buttonText": "Place order"
+        }
+    ],
+
+    "loginPage": [
+        {
+            "id": 7,
+            "loginText": "Please login to continue: ",
+            "emailLabel": "Email adress: ",
+            "emailPlaceholder": "ex johndoe@email.com",
+            "passwordLabel": "Password: ",
+            "passwordPlaceholder": "Insert password",
+            "buttonText": "Sign in"
+        }
+    ],
+
+    "aboutPageTitle": [
+        {
+            "id": 8,
+            "title": "click on the link below for more information"
+        }
+    ],
+
+    "aboutPageLink" : [
+        {
+            "id": 9,
+            "routeLink": "history",
+            "textLink": "Our history"
+        },
+        {
+            "id": 10,
+            "routeLink": "ordering-guide",
+            "textLink": "Ordering guide"
+        }
+    ],
+
+    "adminPage": [
+        {
+            "id": 11,
+            "loggedLabel": "Logged in as: ",
+            "buttonText": "Sign out",
+            "title": "Menu: ",
+            "titleSecond": "Item",
+            "titleSecondBis": "Remove from menu",
+            "titleBis": "Current order",
+            "titleTer": "Order number: "
+        }
+    ],
+
+    "addOrderComponent": [
+        {
+            "id": 12,
+            "title": "Add new order: ",
+            "titleBis": "Option: ",
+            "nameLabel": "Name: ",
+            "descriptionLabel": "Description: ",
+            "sizeLabel": "Size",
+            "priceLabel": "Price",
+            "buttonText": "add"
+        }
+    ],
+    "footerComponent": [
+        {
+            "id": 13,
+            "footerText": "Copyright Galaxy pizza 2020"
+        }
+    ]
+}
