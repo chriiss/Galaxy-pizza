@@ -4,7 +4,7 @@ This project was made with Vue.js. The objective of this project was to use Fire
 I created a pizza-delivery site (as you may have understood called Galaxy Pizza).
 Here are the functionalities covered by the project:
   -	Multi-page navigation thanks to Vue-router
-  -	Add abd remove menu/pizza stored in Firebase, from the admin panel
+  -	Add and remove menu/pizza stored in Firebase, from the admin panel
   -	Login to the admin panel with an email and a password (the account creation is made directly from Firebase)
   -	Form creation with the library vuelidate
       o	Fields verification
@@ -14,5 +14,6 @@ Here are the functionalities covered by the project:
   -	Use SCSS for the design
   -	Possibility to choose the number of pizzas to be added to the basket (the price is automatically calculated according to the number of pizzas in the basket)
   -	Use of HTML5 semantics (title, header, section, footer, h1, h2, h3, h4)
+  
 Unfortunately, you can’t order real pizzas but hope you’ll enjoy ;)
 
