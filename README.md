@@ -6,7 +6,7 @@ Here are the functionalities covered by the project:
   -	Multi-page navigation thanks to Vue-router
   -	Add and remove menu/pizza stored in Firebase, from the admin panel
   -	Login to the admin panel with an email and a password (the account creation is made directly from Firebase)
-  -	Form creation with the library vuelidate
+  -	Form creation with the library vuelidate:
       o	Fields verification
       o	Fields completion according to the characters entered (for example, for the postal code, users can only enter numbers in the field)
   -	Recovery of an API, listing the cities in France and displayed through a drop-down menu, when users choose delivery at home
