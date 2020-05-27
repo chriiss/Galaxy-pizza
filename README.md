@@ -15,5 +15,7 @@ Here are the functionalities covered by the project:
   -	Possibility to choose the number of pizzas to be added to the basket (the price is automatically calculated according to the number of pizzas in the basket)
   -	Use of HTML5 semantics (title, header, section, footer, h1, h2, h3, h4)
   
+  - Using VueX
+  
 Unfortunately, you can’t order real pizzas but hope you’ll enjoy ;)
 
